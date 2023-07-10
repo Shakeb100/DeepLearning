@@ -23,3 +23,8 @@ toc = time.time()
 
 print(c)
 print("for loop: " + str(1000*(toc-tic))+ " ms")
+
+
+
+
+U = np.zeros((1)) #create new array filled woth 0's (floating point)
